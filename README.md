@@ -1,4 +1,4 @@
-### Hi there 👋
+### Have a good day 👋
 
 <!--
 **wynwilla/wynwilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 MSCS in Northeastern University
+- 😄 Pronouns: Yinan(Willa) Wang
+- 💬 How to reach me: wang.yinan3@northeastern.edu
+- ⚡ Fun fact: My avatar is from my FF14 game character
