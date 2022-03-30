@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 MSCS in Northeastern University
+- 🔭 I'm currently studying in Northeastern University
 - 😄 Pronouns: Yinan(Willa) Wang
 - 💬 How to reach me: wang.yinan3@northeastern.edu
 - ⚡ Fun fact: My avatar is from my FF14 game character
