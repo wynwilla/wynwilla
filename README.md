@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently studying in Northeastern University
 - 💬 How to reach me: wang.yinan3@northeastern.edu
-- ⚡ Fun fact: My avatar is from my FF14 game character
+- ⚡ Fun fact: My avatar is from my FF14 character
