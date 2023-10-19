@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently studying in Northeastern University
+- 🔭 I'm now study at Northeastern University
 - ⚡ Fun fact: My avatar is my FF14 character
