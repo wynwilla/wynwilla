@@ -1,7 +1,7 @@
 ### Have a good day 👋
 
 <!--
-**wynwilla/wynwilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm now study at Northeastern University
 - ⚡ Fun fact: My avatar is my FF14 character
