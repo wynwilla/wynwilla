@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ Fun fact: My avatar is my FF14 character
+⚡ Fun fact: My avatar is my FF14 character
